@@ -1,1 +1,1 @@
-# GraphNeuralNetworks
+# Graphs in AI
